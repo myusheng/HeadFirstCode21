@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9ec6aaff-e350-420f-85b2-417e1d2777ec" name="Default Changelist" comment="" />
+    <list default="true" id="9ec6aaff-e350-420f-85b2-417e1d2777ec" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter03/Beverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter03/CondimentDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter03/DarkRoast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter03/Decat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter03/Espresso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter03/HouseBlend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter03/Mocha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter03/Soy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter03/StarbuzzCoffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter03/Whip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +29,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\HeadFirstCode\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1VI7jLVF2V5SN2fxKzE1Ccpf5aY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -31,7 +51,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.StarbuzzCoffee">
     <configuration name="PizzaTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter04.PizzaTestDrive" />
       <module name="HeadFirstCode" />
@@ -45,8 +65,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StarbuzzCoffee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter03.StarbuzzCoffee" />
+      <module name="HeadFirstCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StarbuzzCoffee" />
         <item itemvalue="Application.PizzaTestDrive" />
       </list>
     </recent_temporary>
@@ -74,13 +108,49 @@
       <option name="presentableId" value="Default" />
       <updated>1576928888953</updated>
     </task>
+    <task id="LOCAL-00001" summary="Chapter04">
+      <created>1576930890951</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576930890951</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Chapter04" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter04" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="334" y="0" key="CommitChangelistDialog2" timestamp="1576930890074">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="334" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1576930890074" />
     <state x="324" y="73" key="FileChooserDialogImpl" timestamp="1576930705658">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="324" y="73" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1576930705658" />
+    <state x="539" y="258" width="287" height="246" key="Github.ShareDialog" timestamp="1576931438465">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="539" y="258" width="287" height="246" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1576931438465" />
+    <state width="1322" height="166" key="GridCell.Tab.0.bottom" timestamp="1576932072843">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="166" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576932072843" />
+    <state width="1322" height="166" key="GridCell.Tab.0.center" timestamp="1576932072843">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="166" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1576932072843" />
+    <state width="1322" height="166" key="GridCell.Tab.0.left" timestamp="1576932072842">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="166" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1576932072842" />
+    <state width="1322" height="166" key="GridCell.Tab.0.right" timestamp="1576932072843">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="166" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1576932072843" />
     <state x="163" y="0" key="SettingsEditor" timestamp="1576930658177">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
